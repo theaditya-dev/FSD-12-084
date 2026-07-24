@@ -11,3 +11,8 @@ const add2 = (a, b) => a+b;
 console.log(sum(20, 10));
 console.log(add(20, 10));
 console.log(add2(20, 10));
+
+//frotentened , flask , vue.5, anguler
+//common in the above four - html , css(bootsstrap, tailwind), java
+
+//backened - nodejs, spring boot, fastapi, django, php 
